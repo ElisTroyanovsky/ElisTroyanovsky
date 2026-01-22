@@ -31,6 +31,16 @@ I enjoy building things from scratch and prefer clarity, correctness, and clean 
 
 ## Featured Projects
 
+### 💰 [BudgetBuddy](https://github.com/ElisTroyanovsky/BudgetBuddy)
+A Java-based personal finance tracking application.
+
+- Technologies: Java
+- Features:
+  - Expense tracking
+  - User-oriented design
+  - Clean project structure
+---
+
 ### 🧠 [C Data Structures](https://github.com/ElisTroyanovsky/C_Data_Structures)
 Classic data structures implemented from scratch in C.
 
@@ -66,17 +76,6 @@ Low-level DOS assembly programs demonstrating direct hardware interaction.
   - Direct video memory access (`0xB800`)
   - Text-mode graphics and visual effects
 - Runs in DOSBox / DOSBox-X
-
----
-
-### 💰 [BudgetBuddy](https://github.com/ElisTroyanovsky/BudgetBuddy)
-A Java-based personal finance tracking application.
-
-- Technologies: Java
-- Features:
-  - Expense tracking
-  - User-oriented design
-  - Clean project structure
 
 ---
 
