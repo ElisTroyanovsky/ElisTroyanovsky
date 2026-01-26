@@ -34,7 +34,7 @@ I enjoy solving algorithmic problems and designing clean, modular systems in Jav
 ### 💰 [BudgetBuddy](https://github.com/ElisTroyanovsky/BudgetBuddy)
 A Java-based personal finance tracking application.
 
-- Technologies: Java
+- Technologies: Java, Firebase
 - Features:
   - Expense tracking
   - User-oriented design
