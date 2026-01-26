@@ -2,12 +2,12 @@
 
 ## About Me
 
-I am a Computer Science student based in Tel Aviv, Israel, with a strong interest in low-level programming, data structures, and systems-oriented development, as well as application development.
+I am a Computer Science student based in Tel Aviv with a strong foundation in algorithms, data structures, and object-oriented programming as well as application development.
 
 My main focus is understanding how software works close to the hardware level — from memory management and algorithmic design in C, to x86 assembly programming.  
 Alongside this, I enjoy building practical applications, including Java-based projects, and applying clean architecture principles in higher-level systems.
 
-I enjoy building things from scratch and prefer clarity, correctness, and clean architecture over heavy abstractions.
+I enjoy solving algorithmic problems and designing clean, modular systems in Java, while maintaining an interest in how programs execute and manage resources.
 
 ---
 
