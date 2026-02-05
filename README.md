@@ -68,14 +68,15 @@ A console-based tank game demonstrating modular design and game simulation logic
 ---
 
 ### ⚙️ [x86 Assembly (8086) Examples](https://github.com/ElisTroyanovsky/asm-8086-examples)
-Low-level DOS assembly programs demonstrating direct hardware interaction.
+Low-level DOS assembly programs demonstrating direct hardware interaction and algorithmic implementations.
 
-- Technologies: x86 Assembly (8086)
-- Features:
-  - Keyboard input handling
-  - Direct video memory access (`0xB800`)
-  - Text-mode graphics and visual effects
-- Runs in DOSBox / DOSBox-X
+- **Technologies:** x86 Assembly (8086)
+- **Features:**
+  -  Classical sorting algorithms (Bubble, Insertion, Selection)
+  -  Stack frame management & Procedure calls
+  -  Direct video memory access (`0xB800`)
+  -  Keyboard input handling
+- **Runs in:** DOSBox / DOSBox-X
 
 ---
 
