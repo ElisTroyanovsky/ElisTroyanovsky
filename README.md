@@ -19,12 +19,13 @@ I am passionate about solving algorithmic problems and designing clean, modular 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Assembly](https://img.shields.io/badge/8086%20Assembly-000000?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br/>
+
 ![Android](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisTroyanovsky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -33,13 +34,16 @@ I am passionate about solving algorithmic problems and designing clean, modular 
 ## 🚀 Featured Projects
 
 ### 💰 [BudgetBuddy](https://github.com/ElisTroyanovsky/BudgetBuddy)
-A Java-based personal finance tracking application.
+**Full-featured personal finance Android application.**
+<br/>
+[![Android Release](https://img.shields.io/badge/Download-APK-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/ElisTroyanovsky/BudgetBuddy/releases)
 
-- **Technologies:** Java, Firebase
-- **Features:**
-  - Expense tracking
-  - User-oriented design
-  - Clean project structure
+- **Technologies:** Java, Android SDK, Firebase (Auth & Realtime DB), REST API, MPAndroidChart.
+- **Key Features:**
+  - 🔐 **Secure Cloud Sync:** Authentication via Firebase & real-time data storage.
+  - 📊 **Visual Analytics:** Interactive Pie and Bar charts for spending analysis.
+  - 🌍 **Currency Converter:** Real-time exchange rates via external API.
+  - 🌑 **Dark Mode:** Full system-wide dark theme support.
 
 ### 🧠 [C Data Structures](https://github.com/ElisTroyanovsky/C_Data_Structures)
 Classic data structures implemented from scratch in C.
@@ -76,12 +80,12 @@ Low-level DOS assembly programs demonstrating direct hardware interaction and al
 
 ## 🔭 Areas of Interest
 
+- Application development and software design
+- Building modular and maintainable applications (Java, Android)
 - Low-level and systems programming
 - Data structures and algorithms
 - Memory management
 - Assembly language and computer architecture
-- Application development and software design
-- Building modular and maintainable applications (Java, Android)
 
 ---
 
