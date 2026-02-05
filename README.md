@@ -88,5 +88,5 @@ Low-level DOS assembly programs demonstrating direct hardware interaction and al
 ## 📫 Connect with Me
 
 - 📧 **Email:** [elistroyanovsky@gmail.com](mailto:elistroyanovsky@gmail.com)
-- 💼 **LinkedIn:** [Elis Troyanovsky](https://www.linkedin.com/in/elis-troyanovsky-0346b82b3)
+- 💼 **LinkedIn:** [Elis Troyanovsky](https://www.linkedin.com/in/elis-troyanovsky)
 - 📍 **Location:** Tel Aviv, Israel
