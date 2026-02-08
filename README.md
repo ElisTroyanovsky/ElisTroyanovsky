@@ -4,7 +4,7 @@
 
 I am a Computer Science student based in Tel Aviv with a strong foundation in algorithms, data structures, and object-oriented programming.
 
-My main focus is understanding how software works close to the hardware level — from memory management and algorithmic design in C, to x86 assembly programming.
+My main focus is understanding how software works close to the hardware level — from memory management and algorithmic design in C, to assembly programming.
 Alongside this, I enjoy building practical applications, including Java-based projects, and applying clean architecture principles in higher-level systems.
 
 I am passionate about solving algorithmic problems and designing clean, modular systems in Java, while maintaining an interest in how programs execute and manage resources.
@@ -17,7 +17,7 @@ I am passionate about solving algorithmic problems and designing clean, modular 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/8086%20Assembly-000000?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br/>
