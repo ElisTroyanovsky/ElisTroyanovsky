@@ -9,6 +9,14 @@ Alongside this, I enjoy building practical applications, including Java-based pr
 
 I am passionate about solving algorithmic problems and designing clean, modular systems in Java, while maintaining an interest in how programs execute and manage resources.
 
+## Languages
+
+English: Full proficiency 🇺🇸
+
+Russian: Native 🇷🇺
+
+Hebrew: Professional 🇮🇱
+
 ---
 
 ## 🛠 Main Technologies & Tools
