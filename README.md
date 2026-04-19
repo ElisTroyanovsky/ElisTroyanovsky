@@ -104,3 +104,5 @@ Low-level DOS assembly programs demonstrating direct hardware interaction and al
 - 📧 **Email:** [elistroyanovsky@gmail.com](mailto:elistroyanovsky@gmail.com)
 - 💼 **LinkedIn:** [Elis Troyanovsky](https://www.linkedin.com/in/elis-troyanovsky)
 - 📍 **Location:** Tel Aviv, Israel
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisTroyanovsky&layout=compact&theme=radical)
