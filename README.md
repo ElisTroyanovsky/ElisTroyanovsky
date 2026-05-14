@@ -49,7 +49,7 @@ Hebrew: Professional 🇮🇱
   - Two-layer caching (in-memory + disk persistence) eliminates duplicate API calls
   - Custom HTTP server using `com.sun.net.httpserver` — only one external dependency (Gson)
   - Interactive map UI with live route visualization and traffic overlay
-- **Results:** ~13-30% distance reduction vs greedy baseline on 32 points × 5 trucks
+- **Results:** ~13-23% distance reduction vs greedy baseline on 32 points × 5 trucks
 - **Context:** Software Engineering final project, Bari WAN TEC (2025–2026)
 
 ### 💰 [BudgetBuddy](https://github.com/ElisTroyanovsky/BudgetBuddy)
